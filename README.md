@@ -1,6 +1,6 @@
-README
-==========
-+ Ruby: ruby-2.2.0
+Ember Castle
+==============================
+Ember Castle is a back-end project base on 'Ruby on Rails'.
 
 ```bash
 bundle install
